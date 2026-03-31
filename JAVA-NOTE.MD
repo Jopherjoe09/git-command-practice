@@ -43,3 +43,17 @@ _You cannot develop Java apps without the JDK_
 - Oracle stopped developing Java EE and donated it to the Eclipse Foundation
 - Now rebranded as Jakarta EE
 - ⚠️ This course focuses on Java SE only
+
+Installation of the jdk
+
+go to this website:
+
+https://www.oracle.com/java/technologies/downloads/
+
+once you downloaded it:
+
+1. go to Environment variables and click the button
+2. go for the system variables
+3. add JAVA_HOME and add the path where you installed the jdk, if existing just change the path
+4. find the path on system variables, select and edit it. You can click the new or edit: add the path what you did on JAVA_HOME and add \bin
+5. To check if it was working. Go to cmd and prompt **java -version**
