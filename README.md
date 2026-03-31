@@ -6,9 +6,9 @@ touch README.md
 and to add a content inside of the file using git bash
 echo "# comments" > README.md
 
-> "Overwrites the file content"
+> " > Overwrites the file content"
 
-> > "Appends to the existing content"
+> " > >Appends to the existing content"
 
 You can use the cat command to view the contents of the file directly in Git Bash:
 cat README.md
