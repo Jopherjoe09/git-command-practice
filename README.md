@@ -18,3 +18,5 @@ cat README.md - Displays the full content of the file
 head README.mdShows - only the first 10 lines
 tail README.mdShows - only the last 10 lines
 less README.mdOpens - the file in a scrollable view (press q to exit)
+
+** git status ** shows you the current state of your project — what branch you're on, which files are new (untracked), modified, or staged and ready to commit.
